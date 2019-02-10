@@ -4,6 +4,6 @@ comments: true
 categories: IT
 ---
 
-## Empty npl tutorial template
+## Empty IT tutorial template
 
 Empty post template

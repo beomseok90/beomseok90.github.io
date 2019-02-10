@@ -11,64 +11,32 @@ permalink: /projects/
 # All my projects
 Following are projects started by me. 
 
-## NPL project
-* Started: 2004-present
-* Website: [www.nplproject.com](http://www.nplproject.com)
-   * NPL Code Wiki
-   * NPL language service and debugger
+## KG Auction
+* 프로젝트 정보
+   * 개발기간: 2018.11-2018.12 (still operating)
+   * 웹사이트: [www.sysout.co.kr/kgauction](www.sysout.co.kr/kgauction)
+   * 담당업무 : 기획 / DB설계 / 경매 기능(실시간 응찰 및 관리자 기능 중점)
+   * 참여인원 : 2명
+* 개발환경
+   * OS: Windows 10
+   * Language: JAVA / JSP / JavaScript / CSS / HTML5
+   * Framework: Spring 4.3.2 released
+   * Database: Oracle 11g (SQL Mapper: MyBatis3.0)
+   * WAS: Tomcat 9.0
 
-NPL(Neural Parallel Language) is a new programming language. It was started as my exploration of coding logics in a networked environment.    
-Throughout the years, I have written over a million lines of code with it. All my other projects since 2005 is written in it. 
- 
+회원제로 제공되는 미술품 경매 사이트이며 출품을 원하는 회원분들에게 미술품을 위탁 받아 경매를 진행합니다. 구매를 원하는 회원들은 직접 실시간 경매에 참여하여 낙찰을 받게 됩니다.
 
-## Paracraft
-* Started: 2012-present
-* Website: [www.paracraft.cn](http://www.paracraft.cn)
-   * [ParacraftSDK](https://github.com/LiXizhi/ParaCraftSDK)
-   * Self Learning College
+## Private Lesson
+* 프로젝트 정보
+   * 개발기간: 2019.01-present
+   * 웹사이트: 진행중
+   * 담당업무 : 기획 / DB설계 / 관리자 기능
+   * 참여인원 : 2명
+* 개발환경
+   * OS: Windows 10
+   * Language: JAVA / JSP / JavaScript / CSS / HTML5
+   * Framework: Spring 4.3.8 released
+   * Database: Oracle 11g (SQL Mapper: MyBatis3.0)
+   * WAS: Tomcat 8.5
 
-Paracraft is a standalone 3d animation software for everyone. 
-It was my exploration of CAD(computer aided design) using the vision brain (i.e. your right brain).
-Paracraft is an extensible tool that everyone can learn to create videos and computer programs.
-I am using it to promote NPL language in self learning college to teach students programming.  
-
-
-## ParaEngine
-* Started: 2005-present
-* Website: [www.paraengine.com](http://www.paraengine.com)
-   * ParaEngine Developer Site (PEDN)
-   * MCML: a markup language to create GUI
-    
-ParaEngine is a 3d distributed game engine I wrote with C++/NPL. It has become the low-level code framework for all my other projects since 2005. 
-
-## Magic Haqi
-* Started: 2009-2014 (still operating)
-* Website: [haqi.61.com](http://haqi.61.com)
-   * user forum
-   * user videos
-
-Magic Haqi is a free/paid 3D MMORPG published by taomee in November, 2009, allowing kids to play, create and share 3d worlds. It has over 5 million registered users and tens of thousands of user created works in China. The software is developed and owned by the developers of Paracraft, but has nothing to do with Paracraft. The initial version of paracraft was developed as a module in Magic Haqi. We have valid contract with its publisher taomee for their use of paracraft and its source code. 
-
-
-## Magic Haqi2
-* Started: 2012-2013 (still operating)
-* Website: [haqi2.61.com](http://www.61.com/haqi2/home.html)
-
-Same as Magic haqi. 
-
-## ParaWorld
-* Started: 2007-2008
-* Website: closed
-
-It used to be hosted on www.pala5.cn. It is a community based world creation game. We did not manage to make it to the public, and closed the project. 
-
-## Kids Movie Creator
-* Started: 2006-2007
-* Website: [download link](http://kids-movie-creator.software.informer.com/)
-
-Kids Movie Creator is a very old shareware released in 2006, allowing kids to create 3d world and make movies. 
-
-## Before 2005
-* Started: 1989-2005 (very old ones)
-* [Xizhi's old website before 2005](/oldsite2005/projects.htm). 
-
+과외 선생님과 학생을 매칭 시켜주는 과외 중개 사이트입니다. 선생님은 학생들의 정보를 파악하고 연결을 시도할 수 있으며, 학생들은 원하는 선생님을 조건에 따라 검색하여 최적의 조건으로 과외 선생님과의 연결을 요청할 수 있습니다.
