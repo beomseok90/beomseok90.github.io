@@ -2,7 +2,6 @@
 layout: frontpage
 ---
 
-## Welcome to my website
+## Jr. BACKEND DEVELOPER
 
-This is the place where I share my ideas on topics like [Paracraft](http://www.paracraft.cn) software design, artificial intelligence and education. 
-Feel free to send me emails or join our team. 
+주니어 개발자의 IT 관련 이야기와 일상을 담은 블로그입니다.

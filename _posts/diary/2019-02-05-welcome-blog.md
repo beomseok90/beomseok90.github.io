@@ -1,14 +1,14 @@
 ---
 layout: post
 comments: true
-categories: diary
+categories: DIARY
 ---
 
 ## 첫 발을 내딛다
 
 반년 남짓한 시간 동안 개발자의 길로 들어서며 생각했던 목표 중에 하나가 바로 블로그를 운영하는 것이었다.
 
-**~~WHY~~**
+***~~WHY~~***
 
 >머리에 담기엔 수많은 IT 지식들을 기억하기 위해
 
