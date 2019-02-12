@@ -25,6 +25,10 @@ disqus_shortname: beomseok90
 disqus_url: "http://beomseok90.github.io"
 #########################################
 
+#google analytics
+google_analytics:
+  ua: 'UA-134336607-1'
+
 # Build settings
 markdown: kramdown
 
