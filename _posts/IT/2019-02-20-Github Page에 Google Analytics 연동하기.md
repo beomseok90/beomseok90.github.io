@@ -24,7 +24,7 @@ categories: IT
 
 ![GA_join2](/images/2019-02-20/GA_join2.png)
 
-2-3. **ID추적하기** 클릭
+2-3. **추적 ID가져오기** 클릭
 
 ![GA_join3](/images/2019-02-20/GA_join3.png)
 
