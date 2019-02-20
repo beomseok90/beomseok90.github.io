@@ -13,10 +13,10 @@ categories: IT
 그 중 먼저 웹 로그 분석을 도와주는 Google Analytics에 연동해보려 한다.
 
 
-> 1. Google Analytics 접속
-> <https://www.google.com/analytics/> 로 이동
+1. Google Analytics 접속
+<https://www.google.com/analytics/> 로 이동
 
-> 2. Google Analytics 가입
+2. Google Analytics 가입
 ![어낼리틱스가입](/images/2019-02-20/GA_join.png)
 ![어낼리틱스가입2](/images/2019-02-20/GA_join2.png)
 ![어낼리틱스가입3](/images/2019-02-20/GA_join3.png)
